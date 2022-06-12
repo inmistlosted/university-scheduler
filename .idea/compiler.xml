@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HaskellBuildOptions">
+    <ghcPath>C:\ProgramData\chocolatey\lib\ghc\tools\ghc-8.10.3\bin\ghc.exe</ghcPath>
+    <cabalPath>C:\ProgramData\chocolatey\bin\cabal.exe</cabalPath>
+    <useStack>true</useStack>
+    <stackPath>C:\Users\HP250\AppData\Roaming\local\bin\stack.exe</stackPath>
+    <stackFile>$PROJECT_DIR$/stack.yaml</stackFile>
+  </component>
+</project>
